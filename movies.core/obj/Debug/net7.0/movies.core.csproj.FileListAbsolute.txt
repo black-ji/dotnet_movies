@@ -1,0 +1,11 @@
+C:\ensi\movies_dotnet\movies.core\bin\Debug\net7.0\movies.core.deps.json
+C:\ensi\movies_dotnet\movies.core\bin\Debug\net7.0\movies.core.dll
+C:\ensi\movies_dotnet\movies.core\bin\Debug\net7.0\movies.core.pdb
+C:\ensi\movies_dotnet\movies.core\obj\Debug\net7.0\movies.core.GeneratedMSBuildEditorConfig.editorconfig
+C:\ensi\movies_dotnet\movies.core\obj\Debug\net7.0\movies.core.AssemblyInfoInputs.cache
+C:\ensi\movies_dotnet\movies.core\obj\Debug\net7.0\movies.core.AssemblyInfo.cs
+C:\ensi\movies_dotnet\movies.core\obj\Debug\net7.0\movies.core.csproj.CoreCompileInputs.cache
+C:\ensi\movies_dotnet\movies.core\obj\Debug\net7.0\movies.core.dll
+C:\ensi\movies_dotnet\movies.core\obj\Debug\net7.0\refint\movies.core.dll
+C:\ensi\movies_dotnet\movies.core\obj\Debug\net7.0\movies.core.pdb
+C:\ensi\movies_dotnet\movies.core\obj\Debug\net7.0\ref\movies.core.dll

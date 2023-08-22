@@ -1,0 +1,15 @@
+C:\ensi\movies_dotnet\movies.application\bin\Debug\net7.0\movies.application.deps.json
+C:\ensi\movies_dotnet\movies.application\bin\Debug\net7.0\movies.application.dll
+C:\ensi\movies_dotnet\movies.application\bin\Debug\net7.0\movies.application.pdb
+C:\ensi\movies_dotnet\movies.application\obj\Debug\net7.0\movies.application.GeneratedMSBuildEditorConfig.editorconfig
+C:\ensi\movies_dotnet\movies.application\obj\Debug\net7.0\movies.application.AssemblyInfoInputs.cache
+C:\ensi\movies_dotnet\movies.application\obj\Debug\net7.0\movies.application.AssemblyInfo.cs
+C:\ensi\movies_dotnet\movies.application\obj\Debug\net7.0\movies.application.csproj.CoreCompileInputs.cache
+C:\ensi\movies_dotnet\movies.application\obj\Debug\net7.0\movies.application.dll
+C:\ensi\movies_dotnet\movies.application\obj\Debug\net7.0\refint\movies.application.dll
+C:\ensi\movies_dotnet\movies.application\obj\Debug\net7.0\movies.application.pdb
+C:\ensi\movies_dotnet\movies.application\obj\Debug\net7.0\ref\movies.application.dll
+C:\ensi\movies_dotnet\movies.application\bin\Debug\net7.0\movies.core.dll
+C:\ensi\movies_dotnet\movies.application\bin\Debug\net7.0\movies.core.pdb
+C:\ensi\movies_dotnet\movies.application\obj\Debug\net7.0\movies.application.csproj.AssemblyReference.cache
+C:\ensi\movies_dotnet\movies.application\obj\Debug\net7.0\movies.application.csproj.CopyComplete
